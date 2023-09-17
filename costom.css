@@ -1,0 +1,63 @@
+marquee{
+    color: rgb(250, 245, 245);
+     background-color:palevioletred;
+     height: 50px;
+     font-size: 30px;
+    
+}
+h1{
+    color: blue;
+     margin-left: 70px;
+    }
+    legend{
+        color: rgb(228, 60, 9);
+        text-align: left;
+        font-size: 20px;
+    }
+    div{
+        border:5px rgb(233, 11, 11);
+
+    }
+    fieldset{
+        text-align:left;
+        text-size-adjust:20px;
+        width: 60%;
+        margin-left:70px;
+    }
+    label{
+        font-size: 18px;
+        text-align: left;
+    }
+   
+    #Mname{
+        margin-left: 80px;
+
+    }
+    #gender{
+        margin-left: 80px;
+
+    }#age{
+        margin-left: 50px;
+    }
+    #checkbox{
+        margin-left:70px;
+    }
+    #submit{
+        margin-left: 70px;
+        color: green;
+    }
+    #reset{
+        margin-left: 70px;
+        color: red;
+    }
+    #file{
+        background-color: rgb(102, 181, 233);
+    }
+    #gmail{
+        margin-left: 15px;
+    }
+
+    input:focus{
+        border:4px red;
+        
+    }
